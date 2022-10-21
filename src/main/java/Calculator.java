@@ -39,8 +39,6 @@ class Calculator {
     etc
      */
     int fibonacciNumberFinder(int n) {
-        hhjs
-
         if (n==0)
             return 0;
         else if (n==1 || n==2)
